@@ -1,0 +1,12 @@
+Movie, Movie1, "The Matrix", "A computer hacker learns the truth about reality", 10
+Movie, Movie2, "Inception", "A thief who steals secrets through the use of dream-sharing technology", 15
+Movie, Movie3, "Carry-on", "A young TSA agent finds himself unexpectedly thrust into a high-stakes hijacking plot on Christmas Day, testing his courage and resourcefulness.", 15
+Movie, Movie4, "It Ends With Us", "A woman navigates a complex romance while confronting her painful past and making difficult choices about love and self-respect", 15
+Movie, Movie5, "That Christmas", "Interwoven tales of love, family, and festive mishaps unfold during a heartwarming holiday season.", 15
+Movie, Movie6, "The Star", "A small but brave donkey and his animal friends embark on an adventurous journey, becoming part of the first Christmas story", 15
+Movie, Movie7, "We're The Millers", "A small-time drug dealer creates a fake family to smuggle a massive shipment across the border, leading to hilariously chaotic misadventures.", 15
+Movie, Movie8, "Disaster Holiday", "A family’s plans for a perfect getaway unravel as comical disasters and unexpected challenges strike.", 15
+Movie, Movie9, "The Grinch", "A thief who steals secrets through the use of dream-sharing technology", 15
+
+Game, Game1, "Super Mario", "A classic platformer game featuring Mario", 20
+Game, Game2, "Fortnite", "A battle royale game where players fight to be the last one standing", 30

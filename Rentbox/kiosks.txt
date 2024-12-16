@@ -1,0 +1,17 @@
+1,NY,Albany,Movie1,Movie2,Game1
+2,NY,Buffalo,Movie2,Movie3,Game2,Game4
+3,NY,Syracuse,Movie1,Movie4,Game1,Game5
+4,NY,Rochester,Movie5,Movie3,Game6,Game2
+5,PA,Philadelphia,Movie3,Movie6,Game3,Game1
+6,PA,Pittsburgh,Movie2,Movie7,Game4,Game6
+7,PA,Allentown,Movie8,Movie2,Game2,Game5
+8,PA,Harrisburg,Movie4,Movie9,Game7,Game3
+9,CT,Hartford,Movie1,Movie6,Game4,Game2
+10,CT,NewHaven,Movie7,Movie3,Game5,Game1
+11,CT,Stamford,Movie2,Movie8,Game6,Game4
+12,NJ,Newark,Movie5,Movie9,Game1,Game7
+13,NJ,JerseyCity,Movie3,Movie10,Game4,Game5
+14,NJ,Princeton,Movie2,Movie6,Game2,Game3
+15,MA,Boston,Movie1,Movie7,Game3,Game6
+16,MA,Worcester,Movie4,Movie9,Game2,Game5
+17,MA,Sprignfield,Movie6,Movie10,Game1,Game4
